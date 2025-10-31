@@ -42,7 +42,7 @@ This document describes the steps to download, install, and verify VMware Workst
 
 ## 4. Notes
 
+- Make sure **Hyper-V (Windows Hypervisor) is disabled** before installing VMware Workstation, otherwise it may fail to run VMs.  
 - Ensure your system meets the minimum requirements for VMware Workstation Pro.  
 - Save all screenshots in the `screenshots` folder for consistency.  
 - Keep the installer in a safe location in case you need to reinstall.
-
