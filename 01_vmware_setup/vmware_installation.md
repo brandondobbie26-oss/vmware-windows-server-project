@@ -37,7 +37,8 @@ This document describes the steps to download, install, and verify VMware Workst
 2. Navigate to **Help → About VMware Workstation** to confirm the installed version.  
 3. Take a screenshot of the VMware Workstation main window for documentation.  
 
-> **Screenshot:** `screenshots/verify_vmware.png`
+> **Screenshot:**  
+> ![Download VMware Screenshot](screenshots/verify_vmware.png)
 
 ---
 
@@ -47,6 +48,7 @@ This document describes the steps to download, install, and verify VMware Workst
 - Ensure your system meets the minimum requirements for VMware Workstation Pro.  
 - Save all screenshots in the `screenshots` folder for consistency.  
 - Keep the installer in a safe location in case you need to reinstall.
+
 
 
 
